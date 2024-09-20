@@ -13,6 +13,8 @@ The body contains the actual content of the calculator:
 Container (div.container): This is the main wrapper for the calculator.
 Display (input.display): This is the input field where the result and input values are displayed.
 Buttons (div.buttons): This section contains all the buttons for the calculator, including numbers, operators, and functions. Each button is implemented using the <button> element.
+
+
 2. Buttons
 Each button is labeled with its function or value. Buttons can be divided into two categories:
 
