@@ -22,4 +22,4 @@ Operator Buttons:
 These buttons include operators such as +, -, *, /, %, log, AC (clear), DEL (delete), and the equals sign (=) for calculation. Some of these buttons also have special attributes like data-value, which is useful for JavaScript to identify the operation.
 The button for π allows the user to use the Pi constant in calculations.
 Number Buttons:
-These buttons represent digits (0-9) and decimal point (.). Each number button has a data-value attribute to represent its value.
+These buttons represent digits (0-9) and decimal point (.). Each number button has a data-value attribute to represent its value
